@@ -1,0 +1,13 @@
+[150.007247925] 2018-01-06 13:53:04,174 - INFO - launcher: Starting sanity checks
+[152.009248734] 2018-01-06 13:53:04,176 - INFO - launcher: Checking for Python 3.5+
+[152.009248734] 2018-01-06 13:53:04,176 - INFO - launcher: Checking console encoding
+[153.038501740] 2018-01-06 13:53:04,177 - INFO - launcher: Setting console encoding to UTF-8
+[154.038190842] 2018-01-06 13:53:04,178 - INFO - launcher: Ensuring we're in the right environment
+[159.009456635] 2018-01-06 13:53:04,183 - INFO - launcher: Adding local bins/ folder to path
+[162.009239197] 2018-01-06 13:53:04,186 - INFO - launcher: Required checks passed.
+[164.009571075] 2018-01-06 13:53:04,188 - INFO - launcher: Optional checks passed.
+[166.010379791] 2018-01-06 13:53:04,190 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[6055.347442627] launcher-INFO: Connecting
